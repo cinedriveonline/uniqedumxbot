@@ -1,7 +1,10 @@
 # TUTORIAL
 [Guia completa](https://uniq.edu.mx/bot-telegram-clonar-copiar-carpetas-gdrive-unidad-compartida/)
 
+Envialo a heroku con el siguiente boton o copia el link abajo y cambiale tus datos
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+`https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/usuariogithub/uniqedumxbot`
 
 [fork of](https://github.com/jagrit007/Telegram-CloneBot)
 # Why?
