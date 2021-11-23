@@ -1,8 +1,8 @@
-# TUTORIAL
-[Guia completa](https://uniq.edu.mx/bot-telegram-clonar-copiar-carpetas-gdrive-unidad-compartida/)
+# TUTORIAL guia completa
+[Bot telegram clonar carpetas gdrive unidad team drive](https://uniq.edu.mx/bot-telegram-clonar-copiar-carpetas-gdrive-unidad-compartida/)
 
 Link a enviar a heroku forma 1
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cinedriveonline/uniqedumxbot)
 
 Enviar a Heroku forma 2 si la 1  no te funciona en tu explorador
 - Copia la siguiente url en una nueva ventana del explorador
