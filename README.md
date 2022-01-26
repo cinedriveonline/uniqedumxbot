@@ -1,18 +1,25 @@
 # TUTORIAL guia completa
 [Bot telegram clonar carpetas gdrive unidad team drive](https://uniq.edu.mx/bot-telegram-clonar-copiar-carpetas-gdrive-unidad-compartida/)
 
-Link a enviar a heroku forma 1
+1. Crear Cuentas de servicio con replit con credentials.json de un proyecto google console
+2. Agregar las cuentas a un grupo de google
+3. Descargar el zip
+4. Crear un repo en github en privado
+5. Descomprimir el zip y subir todo a github
+6. Crear app en heroku
+7. Enlazar el repo de github con heroku
+8. configurar variables de sistema en heroku
+
+
+- Link a enviar a heroku 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cinedriveonline/uniqedumxbot)
 
-Enviar a Heroku forma 2 si la 1  no te funciona en tu explorador
-- Copia la siguiente url en una nueva ventana del explorador
+en el destino anterior cambia en la url : usuario y nombre del bot.
 
-`https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=`
+https://heroku.com/deploy?template=https://github.com/cinedriveonline/uniqedumxbot
 
-- Ahora copia toda la direccion de tu repositorio en mi caso es 
-`https://github.com/abdiasriver/uniqedumxbot`
-- pegalo despues de = del link que pegaste en la direccion web y dale enter
-
+- usuario: cinedriveonline
+- Nombre del bot: uniqedumxbot
 
 [fork of](https://github.com/jagrit007/Telegram-CloneBot)
